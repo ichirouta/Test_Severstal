@@ -1,6 +1,5 @@
 package BaseApp;
 
-import TestPage.Pages.WinCalcPage;
 import org.junit.jupiter.api.AfterAll;
 import org.junit.jupiter.api.BeforeAll;
 import org.openqa.selenium.winium.DesktopOptions;
