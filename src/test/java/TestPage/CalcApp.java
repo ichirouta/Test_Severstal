@@ -6,6 +6,7 @@ import org.junit.jupiter.api.BeforeAll;
 
 
 public class CalcApp extends BaseApp{
+    public static WinCalcPage page;
 
     @BeforeAll
     public static void SetupCalcPage() throws InterruptedException {

@@ -13,7 +13,6 @@ public class BaseApp {
     protected static DesktopOptions options;
     protected static WiniumDriverService service;
     public static WiniumDriver driver;
-    public static WinCalcPage page;
 
     @BeforeAll
     public static void SetupClass() {
